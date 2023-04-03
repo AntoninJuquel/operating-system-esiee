@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "gestionpid.h": "c"
+    "gestionpid.h": "c",
+    "gestionfichiers.h": "c"
   }
 }
